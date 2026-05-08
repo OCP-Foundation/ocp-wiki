@@ -1,0 +1,46 @@
+/* src/css/custom.css */
+@import url('https://googleapis.com');
+
+:root {
+  /* Colors */
+  --ifm-color-primary: #3578e5;
+  --ifm-color-primary-dark: #306cdcf4;
+  
+  /* Fonts */
+  --ifm-font-family-base: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --ifm-font-family-monospace: 'JetBrains Mono', SFMono-Regular, Inconsolata, Menlo, monospace;
+  
+  /* Sizing Adjustments */
+  --ifm-font-size-base: 16.5px;
+  --ifm-line-height-base: 1.65;
+  
+  /* Custom Heading Scale */
+  --ifm-h1-font-size: 1.6rem;
+  --ifm-h2-font-size: 1.4rem;
+  --ifm-h3-font-size: 1.2rem;
+}
+
+/* Antialiasing for better text rendering */
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Direct tag overrides - add these at the bottom */
+
+h1, .markdown h1 {
+  font-size: 1.6rem !important;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+h2, .markdown h2 {
+  font-size: 1.4rem !important;
+  font-weight: 600;
+  margin-top: 2rem;
+}
+
+h3, .markdown h3 {
+  font-size: 1.2rem !important;
+  font-weight: 600;
+}

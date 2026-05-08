@@ -1,0 +1,8 @@
+{
+  "label": "🛡️Security & Resilience",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "The OCP security model: from decentralized identity to post-quantum defense."
+  }
+}
