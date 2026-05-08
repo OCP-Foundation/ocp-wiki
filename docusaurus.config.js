@@ -7,11 +7,11 @@ const config = {
   tagline: 'The 5-Layer Stack for Decentralized AI',
   favicon: 'img/OCP_PIC.png',
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://OCP-Foundation.github.io',
+  baseUrl: '/ocp-wiki/',
 
-  organizationName: 'ocp-org', 
-  projectName: 'ocp-docs', 
+  organizationName: 'OCP-Foundation', 
+  projectName: 'ocp-wiki',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
