@@ -10,4 +10,4 @@ Messages are signed using Ed25519 over the SHA-3-256 hash of the message's canon
 
 ---
 
-**Next:** [🧯 Security & Encryption](../security/threat-mitigation.md)
+**Next:** [🧯 Security & Encryption](../security/security.md)
