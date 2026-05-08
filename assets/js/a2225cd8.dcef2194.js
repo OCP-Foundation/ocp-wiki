@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktemp_website=globalThis.webpackChunktemp_website||[]).push([[798],{529(e){e.exports=JSON.parse('{"metadata":{"permalink":"/ocp-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":0,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
