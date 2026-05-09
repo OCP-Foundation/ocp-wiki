@@ -15,7 +15,7 @@ The OpenCognition Protocol (OCP) occupies a unique position in the ecosystem, br
 | 🛠️ **LangChain / AutoGen / CrewAI** | Multi-agent orchestration | Single-stack; not designed for cross-organization or cross-platform use. |
 | 📟 **FIPA-ACL** | Agent communication language | Designed in the 1990s; not compatible with modern LLM-based agents. |
 | 📢 **ActivityPub** | Federated social networking | Designed for human social content, not AI knowledge exchange. |
-| 🚀 **OCP** | **AI-to-AI protocol** | **Cross-org, model-agnostic, with trust, knowledge exchange, and privacy enforcement.** |
+| 🚀 **OCP** | AI-to-AI protocol | Cross-org, model-agnostic, with trust, knowledge exchange, and privacy enforcement. |
 
 ---
 
